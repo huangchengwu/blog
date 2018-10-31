@@ -10,3 +10,5 @@ blog是go二进制文件通过一个脚本来创建表结构并且传参启动
 
 
 博客演示地址为http://www.huangchengwu.xyz
+
+QQ:751164212
